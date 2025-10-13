@@ -1,0 +1,2 @@
+# Ignorar arquivo de variáveis de ambiente locais do Cypress
+cypress.env.json
