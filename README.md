@@ -2,6 +2,15 @@
 
 Este repositório contém um conjunto de testes de ponta a ponta (E2E) para o site [The Movie DB](https://www.themoviedb.org/), desenvolvidos com o framework Cypress. O objetivo é garantir a qualidade e o funcionamento das principais funcionalidades da plataforma, como login e busca.
 
+## ✨ Membros do grupo (QAS_SQUAD10)
+
+José Rafael de Sousa Neto  
+Lorena Andrade dos Santos  
+Paulo Henrique Pereira de Sousa  
+Wendel Vinicius de Oliveira Agra
+
+
+
 ## ✨ Principais Tecnologias
 
 -   **Framework de Teste:** [Cypress](https://www.cypress.io/)
